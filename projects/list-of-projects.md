@@ -1,6 +1,6 @@
-# List of project
+# List of projects
 
-- [Example](projects/example/README.md)
+- [Example](example/README.md)
 
 Yeah, I'll be working on that, for now I don't have a lot of ideas, the only one for now will be this one: 
 
